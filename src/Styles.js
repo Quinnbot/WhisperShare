@@ -1,6 +1,6 @@
 import { StyleSheet } from "react-native";
 
-const Styles = StyleSheet.create({
+export const Styles = StyleSheet.create({
 
     View:{
       backgroundColor: 'black',
